@@ -1,6 +1,6 @@
 ### Hi there, I'm Enise Kara! 
 
- **Software Developer | .NET  | Full-Stack Developer**
+**Software Developer | .NET  | Full-Stack Developer**
 
 I am passionate about building robust, scalable, and efficient applications using the latest **.NET technologies**. My expertise includes backend development, database management, and clean architecture. I am continuously improving my skills and working on exciting projects like **HRBoost**, where I apply best coding practices.
 
@@ -43,7 +43,7 @@ I am passionate about building robust, scalable, and efficient applications usin
 ---
 
 ##  Featured Project: HRBoost
- **[HRBoost Repository](https://github.com/enissekara/HRBoost)**
+### **[HRBoost Repository](https://github.com/enissekara/HRBoost)**
 
 HRBoost is a **human resource management system** designed to streamline **employee management, leave tracking, and payroll processes** using **.NET Core, Entity Framework, and Clean Architecture**. This project follows best development practices to ensure scalability and maintainability.
 
@@ -57,3 +57,15 @@ HRBoost is a **human resource management system** designed to streamline **emplo
 
 ##  Fun Fact
  I enjoy solving algorithmic problems, optimizing database queries, and exploring new technologies in the **.NET ecosystem**! Let's build something amazing together. 😊
+
+---
+
+### Badges & GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=enissekara&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enissekara&layout=compact&theme=radical)
+
+---
+
+### Animated Developer Illustration
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" height="300"/>
+
