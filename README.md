@@ -69,5 +69,6 @@ HRBoost is a **human resource management system** designed to streamline **emplo
 ---
 
 ### Animated Developer Illustration
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/7056181/media/734df65b9eebc81e0cc6d5a0a0a26101.gif" width="400" height="300"/>
+(https://cdn.dribbble.com/users/1162077/screenshots/7056181/media/734df65b9eebc81e0cc6d5a0a0a26101.gif)
+
 
