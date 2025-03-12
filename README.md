@@ -1,6 +1,6 @@
 ### Hi there, I'm Enise Kara! 👋  
 
-🚀 **Software Developer | .NET Enthusiast | Full-Stack Developer**
+🚀 **Software Developer | .NET  | Full-Stack Developer**
 
 I am passionate about building robust, scalable, and efficient applications using the latest **.NET technologies**. My expertise includes backend development, database management, and clean architecture. I am continuously improving my skills and working on exciting projects like **HRBoost**, where I apply best coding practices.
 
