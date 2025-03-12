@@ -1,21 +1,21 @@
-### Hi there, I'm Enise Kara! 👋  
+### Hi there, I'm Enise Kara! 
 
-🚀 **Software Developer | .NET  | Full-Stack Developer**
+ **Software Developer | .NET  | Full-Stack Developer**
 
 I am passionate about building robust, scalable, and efficient applications using the latest **.NET technologies**. My expertise includes backend development, database management, and clean architecture. I am continuously improving my skills and working on exciting projects like **HRBoost**, where I apply best coding practices.
 
 ---
 
-## 📌 About Me
-- 🔹 **.NET Developer** specializing in **ASP.NET MVC, .NET Core, and Web API**
-- 📊 Skilled in **SQL Server, Entity Framework Core, and Database Management**
-- 🎯 Experienced in **Clean Architecture, Layered Architecture, and SOLID Principles**
-- 🚀 Passionate about **Azure DevOps, CI/CD, and API Design**
-- 💡 Proficient in **JavaScript, jQuery, AJAX, and Frontend Technologies**
+##  About Me
+-  **.NET Developer** specializing in **ASP.NET MVC, .NET Core, and Web API**
+-  Skilled in **SQL Server, Entity Framework Core, and Database Management**
+-  Experienced in **Clean Architecture, Layered Architecture, and SOLID Principles**
+-  Passionate about **Azure DevOps, CI/CD, and API Design**
+-  Proficient in **JavaScript, jQuery, AJAX, and Frontend Technologies**
 
 ---
 
-## 🚀 Technologies & Tools
+##  Technologies & Tools
 
 ### **Languages & Frameworks**
 ![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -42,18 +42,18 @@ I am passionate about building robust, scalable, and efficient applications usin
 
 ---
 
-## 🔥 Featured Project: HRBoost
-🔗 **[HRBoost Repository](https://github.com/enissekara/HRBoost)**
+##  Featured Project: HRBoost
+ **[HRBoost Repository](https://github.com/enissekara/HRBoost)**
 
 HRBoost is a **human resource management system** designed to streamline **employee management, leave tracking, and payroll processes** using **.NET Core, Entity Framework, and Clean Architecture**. This project follows best development practices to ensure scalability and maintainability.
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enise-kara-88b961303/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enissekara)
 
 ---
 
-## ⚡ Fun Fact
-🚀 I enjoy solving algorithmic problems, optimizing database queries, and exploring new technologies in the **.NET ecosystem**! Let's build something amazing together. 😊
+##  Fun Fact
+ I enjoy solving algorithmic problems, optimizing database queries, and exploring new technologies in the **.NET ecosystem**! Let's build something amazing together. 😊
